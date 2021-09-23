@@ -8,3 +8,8 @@ A list of anime recommended by baby clav.
 
 ### Additional Works
 * Serial Experiments Lain (1998)
+* Legend of the Galactic Heroes (1988)
+* Psycho-Pass (2012)
+* Steins;Gate (2011)
+* Redline (2009)
+* Space Dandy (2014)
